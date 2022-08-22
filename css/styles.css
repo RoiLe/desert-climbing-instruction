@@ -94,3 +94,6 @@ hr{
   text-decoration: none;
 }
 
+.navbar-collapse.in {
+  display: block !important;
+}
